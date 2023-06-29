@@ -29,6 +29,8 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import portfolio from "./3d_portfolio.png";
+
 export {
   logo,
   backend,
@@ -56,5 +58,6 @@ export {
   tripguide,
   fsoft,
   hahalolo,
-  appcore
+  appcore,
+  portfolio
 };

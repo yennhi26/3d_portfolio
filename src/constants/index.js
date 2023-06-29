@@ -21,7 +21,8 @@ import {
     threejs,
     fsoft,
     hahalolo,
-    appcore
+    appcore,
+    portfolio
   } from "../assets";
   
   export const navLinks = [
@@ -188,7 +189,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: portfolio,
       source_code_link: "https://github.com/yennhi26/3d_portfolio",
     },
     {
@@ -205,7 +206,7 @@ import {
           color: "green-text-gradient",
         },
       ],
-      image: jobit,
+      image: portfolio,
       source_code_link: "https://github.com/",
     },
     {
@@ -226,7 +227,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: portfolio,
       source_code_link: "https://github.com/yennhi26/photo-app",
     },
   ];

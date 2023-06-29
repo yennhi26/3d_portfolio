@@ -1,8 +1,8 @@
-# Project: Fantastic 3D Portfolio Website (using Portfolio Website)
+# Project: Fantastic 3D Portfolio Website (using ThreeJS)
 
 ## Introduction
 
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!
+The most impressive websites in the world use 3D graphics and animations to bring my content to life. 
 
 ## Tech stack
 - ThreeJS 
