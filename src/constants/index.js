@@ -23,6 +23,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    fsoft,
+    hahalolo,
+    appcore
   } from "../assets";
   
   export const navLinks = [
@@ -106,7 +109,7 @@ import {
     {
       title: "Frontend Developer",
       company_name: "FPT Software",
-      icon: starbucks,
+      icon: fsoft,
       iconBg: "#383E56",
       date: "July 2021 - June 2023",
       points: [
@@ -119,7 +122,7 @@ import {
     {
       title: "Frontend Developer",
       company_name: "Hahalolo LLC",
-      icon: tesla,
+      icon: hahalolo,
       iconBg: "#E6DEDD",
       date: "Feb 2020 - Jul 2021",
       points: [
@@ -132,7 +135,7 @@ import {
     {
       title: "Web Developer",
       company_name: "AppCore Technologies Ltd.",
-      icon: shopify,
+      icon: appcore,
       iconBg: "#383E56",
       date: "Jul 2019 - Dec 2019",
       points: [
