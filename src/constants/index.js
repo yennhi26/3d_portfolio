@@ -22,7 +22,9 @@ import {
     fsoft,
     hahalolo,
     appcore,
-    portfolio
+    portfolio,
+    photo_app,
+    crypto
   } from "../assets";
   
   export const navLinks = [
@@ -146,26 +148,26 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
+        "I've never met a web developer who truly cares about their clients' success like Lyra does.",
+      name: "Sara Le",
+      designation: "PM",
+      company: "FPT Software",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "I thought it was impossible to make a website as beautiful as our product, but Lyra proved me wrong.",
       name: "Chris Brown",
       designation: "COO",
-      company: "DEF Corp",
+      company: "FPT Software",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Lyra optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
       designation: "CTO",
-      company: "456 Enterprises",
+      company: "FPT Software",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
@@ -206,7 +208,7 @@ import {
           color: "green-text-gradient",
         },
       ],
-      image: portfolio,
+      image: crypto,
       source_code_link: "https://github.com/",
     },
     {
@@ -227,7 +229,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: portfolio,
+      image: photo_app,
       source_code_link: "https://github.com/yennhi26/photo-app",
     },
   ];

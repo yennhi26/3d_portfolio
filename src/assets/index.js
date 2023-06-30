@@ -30,6 +30,8 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 import portfolio from "./3d_portfolio.png";
+import crypto from "./crypto.png";
+import photo_app from "./photo_app.png";
 
 export {
   logo,
@@ -59,5 +61,7 @@ export {
   fsoft,
   hahalolo,
   appcore,
-  portfolio
+  portfolio,
+  photo_app,
+  crypto
 };
